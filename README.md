@@ -3,6 +3,7 @@
 This is the code for controlling a dc motor with H bridge MOSFET!
 
 ....
+The motor will rotate clockwise for 5s then it stops for a second and then rotate counterclockwise for another 5s.
 
 In this circuit, we are going to use to type of MOSFET Transistor:
 
